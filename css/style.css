@@ -1,0 +1,24 @@
+.navbar{
+    background-color: #3399FF;
+
+}
+
+.navbar-brand-logo {
+    width: 45px;
+    height: auto;
+}
+
+.navbar a{
+    color: white;
+}
+@media(max-width: 991px){
+    .offcanvas{
+        backdrop-filter: blur(10px);
+        background-color:#3399FF;
+    }   
+}
+
+.hero-section{
+    margin-top: 71px;
+    /* background: ; */
+}
