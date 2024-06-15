@@ -3,7 +3,7 @@
 
 }
 
-.navbar-brand-logo {
+.brand-logo {
     width: 45px;
     height: auto;
 }
@@ -53,4 +53,24 @@
 .list-group-item .drop-down-toggler{
     justify-content: space-between !important;
     display: flex;
+}
+
+.footer{
+    background-color:#3399FF;
+    color: white;
+}
+
+.footer h3,
+.footer h5{
+    color: white;
+    font-weight:bold;
+}
+
+.footer ul{
+    list-style: none;
+}
+
+.footer a{
+    text-decoration: none;
+    color: white;
 }
