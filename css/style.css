@@ -20,5 +20,8 @@
 
 .hero-section{
     margin-top: 71px;
-    /* background: ; */
+    background: url(../assets/img/hero-img.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
