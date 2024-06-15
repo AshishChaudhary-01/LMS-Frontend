@@ -12,7 +12,7 @@
     color: white;
 }
 @media(max-width: 991px){
-    .offcanvas{
+    .landing-page .offcanvas{
         backdrop-filter: blur(10px);
         background-color:#3399FF;
     }   
@@ -24,4 +24,11 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+.landing-page h2, 
+.landing-page h3,
+.landing-page h4,
+.landing-page h5{
+    color: #3399FF;
 }
