@@ -11,6 +11,10 @@
 .navbar a{
     color: white;
 }
+
+.navbar a:hover{
+    color: #e9ecef;
+}
 @media(max-width: 991px){
     .landing-page .offcanvas{
         backdrop-filter: blur(10px);
