@@ -36,3 +36,21 @@
 .landing-page h5{
     color: #3399FF;
 }
+
+.list-group-item{
+    padding: 20px 30px 20px 30px;
+}
+
+.list-group-item a {
+    font-weight: 600;
+    font-size: large;
+}
+
+.list-group-item a:hover {
+    color: #3399FF;
+}
+
+.list-group-item .drop-down-toggler{
+    justify-content: space-between !important;
+    display: flex;
+}
